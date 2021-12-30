@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on laravel *
+- 🔭 I’m currently working on laravel 8
 - 🌱 I’m currently learning Django
